@@ -82,7 +82,5 @@ To run this project, you will need to add the following environment variables to
 
 
 
-## Authors
 
-- [Shubh Khanna](https://www.linkedin.com/in/shubhkhanna/)
 
